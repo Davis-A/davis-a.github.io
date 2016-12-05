@@ -5,4 +5,7 @@ permalink: /about/
 ---
 # About Me
 
-This is a demo page to help me learn how to use Jekyll!  In the future it may contain some blog posts.
+Andrew Davis
+Computer Science Student in Melbourne Australia
+
+Unix enthusiast, free software advocate and very novice programmer.
